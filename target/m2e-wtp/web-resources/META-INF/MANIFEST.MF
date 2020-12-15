@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: youssef
+Build-Jdk: 15
+Implementation-Title: eshop
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: tn.rnu.isi.eshop
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/Eshop
+Main-Class: tn.rnu.isi.Application
+Created-By: Maven Integration for Eclipse
+
